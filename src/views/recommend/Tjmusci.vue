@@ -1,7 +1,7 @@
 <template>
   <div class="tjmusic">
     <div class="header" @click="toPlaylist">
-      <!-- <h3>推荐歌单</h3> -->
+      <h3>推荐歌单</h3>
       <div class="icon">
         <i class="iconfont icon-icon-2"></i>
       </div>
