@@ -1,0 +1,155 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 3294193 */
+  src: url('iconfont.woff2?t=1650602503241') format('woff2'),
+       url('iconfont.woff?t=1650602503241') format('woff'),
+       url('iconfont.ttf?t=1650602503241') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-xihuan1:before {
+  content: "\e761";
+}
+
+.icon-yinleliebiao:before {
+  content: "\e645";
+}
+
+.icon-gengduo:before {
+  content: "\e63f";
+}
+
+.icon-pinglun:before {
+  content: "\e6ad";
+}
+
+.icon-good:before {
+  content: "\e62a";
+}
+
+.icon-ziyuan:before {
+  content: "\e621";
+}
+
+.icon-tianjia:before {
+  content: "\e608";
+}
+
+.icon-tingshu:before {
+  content: "\e607";
+}
+
+.icon-yinle:before {
+  content: "\e604";
+}
+
+.icon-zuixin:before {
+  content: "\e638";
+}
+
+.icon-paixingbang:before {
+  content: "\e605";
+}
+
+.icon-geshou1:before {
+  content: "\e606";
+}
+
+.icon-zanting:before {
+  content: "\e663";
+}
+
+.icon-zuijin:before {
+  content: "\e77f";
+}
+
+.icon-xihuan:before {
+  content: "\e665";
+}
+
+.icon-shoucang:before {
+  content: "\e6d5";
+}
+
+.icon-tubiaozhizuomoban:before {
+  content: "\e603";
+}
+
+.icon-fenxiang:before {
+  content: "\e602";
+}
+
+.icon-bofangliebiao:before {
+  content: "\e627";
+}
+
+.icon-geci-copy:before {
+  content: "\e601";
+}
+
+.icon-24gf-play:before {
+  content: "\ea82";
+}
+
+.icon-24gl-pause:before {
+  content: "\ea6d";
+}
+
+.icon-24gl-play:before {
+  content: "\ea6e";
+}
+
+.icon-liebiaoxunhuan:before {
+  content: "\e6f2";
+}
+
+.icon-24gl-repeatOnce2:before {
+  content: "\ea75";
+}
+
+.icon-suijibofang:before {
+  content: "\e671";
+}
+
+.icon-shangyishou:before {
+  content: "\e61e";
+}
+
+.icon-xiayishou:before {
+  content: "\e61f";
+}
+
+.icon-sousuo:before {
+  content: "\e600";
+}
+
+.icon-huanfu:before {
+  content: "\e620";
+}
+
+.icon-shezhi:before {
+  content: "\e643";
+}
+
+.icon-icon-:before {
+  content: "\e6f9";
+}
+
+.icon-icon-1:before {
+  content: "\e712";
+}
+
+.icon-icon-2:before {
+  content: "\e713";
+}
+
+.icon-tinggeshiqu:before {
+  content: "\e626";
+}
+
